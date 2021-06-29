@@ -9,12 +9,12 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.slash</groupId>
-	<artifactId>flash-card</artifactId>
+	<artifactId>flashcard</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>flash-card</name>
-	<description>Apis</description>
+	<name>flashcard</name>
+	<description>apis</description>
 	<properties>
-		<java.version>16</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
